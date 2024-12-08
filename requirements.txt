@@ -1,4 +1,2 @@
 streamlit
 pytube
-moviepy
-ffmpeg-python
